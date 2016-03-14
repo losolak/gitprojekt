@@ -1,0 +1,26 @@
+Mac: Finder
+1)	Verzeichnis für Projekt anlegen, das git als CVS verwenden soll
+	zum Speichern voranschreitender Projektstufen
+	z.B.	unter ak/rubyws ->	gitprojekt
+
+
+Mac: Terminal (Alternative) 
+= Konsole vom Mac. Programme -> in Suchleiste „Terminal“ suchen.
+1): 	cd rubyws		<-	Verzeichnis, in dem das Projekt angelegt wird
+	mkdir gitprojekt	<-	Verzeichnis anlegen
+
+
+2)	cd rubyws/gitprojekt	<-	in das angelegte Verzeichnis gehen	
+
+3)	git init	->	.git-Verzeichnis wird angelegt im aktuellen Verzeichnis
+
+4)	touch gitBefehle.txt	<-	txt erstellen
+
+5)	git status		<-	Untracked files
+
+6)	git add .		<-	alles im Verzeichnis in Kofferraum verstauen,
+					fertig für das commit-Kommando
+
+7)		
+
+
