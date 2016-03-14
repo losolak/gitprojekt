@@ -21,6 +21,27 @@ Mac: Terminal (Alternative)
 6)	git add .		<-	alles im Verzeichnis in Kofferraum verstauen,
 					fertig für das commit-Kommando
 
-7)		
+7)	git status		<-	Changes to be committed
+
+8)	git commit -m „initial commit“		<-	Kofferraum schließen, alles
+							fertig zum Abfahren ins remote
+							repository <- sicherer Platz,
+							wo derzeitiger Projektstand
+							gelagert werden kann
+
+9)	git config --global user.name „losolak“	<-	git config --global user.name "Your Name"	
+								losolak: user.name: festgelegt bei
+								sign in ->	github.com
+
+10)	git config --global user.email losolak@yahoo.de	<-	git config --global user.email you@example.com										losolak@yahoo.de: 
+									festgelegt bei sign in 	->	github.com
+
+11)	nano gitBefehle.txt	<-	nano: Editor, um gitBefehle.txt zu editieren
+
+12) 	git status		<-	Changes not staged for commit:
+
+13)	git add file		<-	oder: git .	<-	um Änderungen auf add-state zu bringen
+
+14)	
 
 
