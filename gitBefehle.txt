@@ -90,7 +90,7 @@ https://github.com/losolak/gitprojekt/commits/master
 	Liste aller hochgeladenen Projekt-Stadien
 
 
-
+Änderung im Remote Repository. <-	pull request anmelden?
 
 
 
