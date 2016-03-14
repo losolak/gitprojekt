@@ -42,6 +42,46 @@ Mac: Terminal (Alternative)
 
 13)	git add file		<-	oder: git .	<-	um Änderungen auf add-state zu bringen
 
-14)	
+14)	git log			<-	commit 207c27c27ca06d10c74a22ebe45d9e88d102e8eb
+						Author: losolak <losolak@yahoo.de>
+						Date:   Mon Mar 14 13:26:17 2016 +0100
+
+    						1.Update gitBefehle.txt
+
+
+					commit 409ae7afa6d56745f2cabbc45b12a7060b6c6706
+						Author: AK <ak@AKs-MacBook-Air.Speedport_W723_V_Typ_A_1_01_012>
+						Date:   Mon Mar 14 13:02:15 2016 +0100
+
+   						initial commit
+
+
+Github-Account einrichten, um Projekt im Internet ablegen zu können
+
+1)	github.com
+2)	sign in: 
+		username: losolak
+		email: losolak@yahoo.de
+
+3)	github.com/new		<-	create new repository
+
+4)	gitprojekt		<-	repository name vergeben
+
+5)	create repository Button anklicken	<-	url des projekts im internet:
+							https://github.com/losolak/gitprojekt.git
+
+
+Lokales Repository ins Internet laden
+
+1)	git remote add origin https://github.com/losolak/gitprojekt.git
+2)	git push -u origin master
+3)	Username for 'https://github.com': losolak
+4)	Password for 'https://losolak@github.com': 	<-	Lokales Repository wurde hochgeladen auf
+								https://github.com/losolak/gitprojekt		
+
+
+
+
+
 
 
