@@ -80,7 +80,9 @@ Lokales Repository ins Internet laden
 								https://github.com/losolak/gitprojekt		
 
 
+Test: 3. Update git-Befehle. Wo sind ältere Versionen zum drauf zugreifen in github?
 
+werden nur neueste Versionen einer Datei angezeigt. Und neue Dateien?
 
 
 
